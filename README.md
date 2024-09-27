@@ -1,4 +1,4 @@
-### SportsPro Technical Support - Product Management
+# **SportsPro Technical Support - Product Management**
 
 ## Overview
 
@@ -37,7 +37,7 @@ The application validates input on the `Add Product` page to ensure that all req
 This application is part of a project exercise from "SportsPro Technical Support" and utilizes technologies outlined in chapters 1 to 6 of the associated coursework.
 
 
-### SportsPro Technical Support - Manage Technicians
+# **SportsPro Technical Support - Manage Technicians**
 
 ## Overview
 
